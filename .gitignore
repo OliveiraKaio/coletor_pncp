@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+
+# VS Code/Replit
+.vscode/
+.replit
+replit.nix
+
+# Ambiente
+.env
+.env.local
+
